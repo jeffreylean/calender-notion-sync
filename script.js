@@ -1,5 +1,5 @@
 const database_id = "database_id";
-const notion_secret_key = "notion_intergration_secret_key;
+const notion_secret_key = "notion_intergration_secret_key";
 const onlyDateRegex = /(\d{4})-(\d{2})-(\d{2})\b/;
 const dateTimeRegex =
   /(\d{4})-(\d{2})-(\d{2})T(\d{2})\:(\d{2})\:(\d{2})\.(\d{3})\+(\d{2})\:(\d{2})\b/;
